@@ -1,0 +1,4 @@
+PULSA
+
+AXIS 10k 9k
+TSEL 10k 9k
